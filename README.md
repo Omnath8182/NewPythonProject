@@ -1,0 +1,2 @@
+# NewPythonProject
+Maharana Pratap Polytechnic
